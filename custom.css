@@ -1,0 +1,65 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+.carousel{
+    margin-inline: 10em;
+}
+@media screen and (max-width: 800px) {
+
+    .carousel{
+        margin-inline: 2em;
+    }
+}
+.carousel-caption {
+    background: rgba(0,0,0,0.4);
+}
+.carousel-caption p{
+    font-weight: 500;
+}
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: .5em 5em;
+    background-color: #f8f9fa;
+}
+
+.footer h5 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+}
+footer a img {
+    width: 32px;
+}
